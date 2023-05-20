@@ -1,0 +1,16 @@
+{
+  "name": "Saleem Castle",
+  "img": "https://avatars.githubusercontent.com/u/10624422?v=4",
+  "email": "ssmic.castle@gmail.com",
+  "links": {
+    "website": "https://www.saleemcastle.com/",
+    "linkedin": "https://www.linkedin.com/in/saleem-castle-61840aa8",
+    "github": "https://github.com/SaleemCastle"
+  },
+  "jobTitle": "Software Engineer",
+  "location": {
+    "city": "Spanish Town",
+    "state": "St. Catherine",
+    "country": "Jamaica"
+  }
+}
